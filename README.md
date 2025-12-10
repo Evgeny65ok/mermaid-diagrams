@@ -1,9 +1,9 @@
-```markdown
+# markdown
 # 8481
 
 ## Задание 1
 ```mermaid
-flowchart
+flowchart TD
     A([Начало]) --> B[Кипячение воды]
     B --> C{Есть ли чай?}
     C -->|Да| D[Заварить чай]
