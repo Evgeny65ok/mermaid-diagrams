@@ -1,7 +1,7 @@
 # Class1012.2
 Exercise
 
-## №1
+##  задания про чай
 ```mermaid
 flowchart TD
     A[Начало] --> B[Кипячение воды]
@@ -16,7 +16,7 @@ flowchart TD
     F --> G[Конец]
 ```
 
-## №2
+##  таха
 ```mermaid
 sequenceDiagram
     participant Клиент
@@ -34,7 +34,7 @@ sequenceDiagram
     Водитель->>Клиент: Забирает клиента
 ```
 
-## №3
+## 3
 ```mermaid
 classDiagram
     class Book {
@@ -72,7 +72,7 @@ classDiagram
 ```
 
 
-## №4
+## 44
 ```mermaid
 gantt
     title Диаграмма Ганта: Разработка мобильного приложения
@@ -90,7 +90,7 @@ gantt
 ```
 
 
-## №5
+## 5
 ```mermaid
 graph TD
     %% Основные узлы
@@ -162,7 +162,7 @@ graph TD
 ```
 
 
-## №6
+##  6
 ```mermaid
 stateDiagram-v2
     [*] --> Новый : Создание заказа
